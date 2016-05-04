@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 
+__author__      = "Anatoly Karashchuk"
 # Числа
 
 # Заполните код преведенных ниже функций. Функция main() уже настроена
